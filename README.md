@@ -9,3 +9,5 @@ Replication material for the paper "Statistical Early Warning Models with Applic
    - The main file are called '[CBS_v12.ox](Application_2/CBS_v12.ox)' and '[CBS_v12_covid.ox](Application_2/CBS_v12_covid.ox)'.
    - Generated output and graphs are stored the folders '[Graphs_v2](Application_2/Graphs_v2)' and '[Output_v2](Application_2/Output_v2)'.
    - Additional Ox file generates graphs for the real-time nowcasting exercise. 
+
+Additional online supplementary material for this paper is provided in [StatEarlyWarningModels_supplement.pdf](StatEarlyWarningModels_supplement.pdf).
